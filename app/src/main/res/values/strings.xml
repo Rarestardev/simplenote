@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Easy Note</string>
+    <string name="Search">Search</string>
+    <string name="all_note">All Note</string>
+    <string name="subjects">Subjects</string>
+    <string name="tags">Tags</string>
+    <string name="priority">Priority</string>
+    <string name="alarms">Alarms</string>
+    <string name="tasks">Tasks</string>
+    <string name="exit">Exit App</string>
+    <string name="about_us">About us</string>
+    <string name="zero">08</string>
+    <string name="notes">Notes</string>
+    <string name="all">All</string>
+    <string name="notify">Notifications</string>
+    <string name="notify_on">Notification on</string>
+    <string name="darkMode">Dark Mode</string>
+    <string name="login_register">Login / Register</string>
+    <string name="about_program">About the application</string>
+    <string name="contact_us">Contact us</string>
+    <string name="settings">Settings</string>
+    <string name="newNote">New</string>
+    <string name="hint">type your note …</string>
+    <string name="save_note">Save</string>
+    <string name="create_note">Create Note</string>
+    <string name="subjects_hint">add subjects :</string>
+    <string name="NoFound">No Notes!</string>
+    <string name="HighPriority">High Priority</string>
+    <string name="MediumPriority">Medium Priority</string>
+    <string name="LowPriority">Low Priority</string>
+    <string name="NoPriority">No Priority (All Notes)</string>
+
+
+    <string name="about">Rare star production and development company wishes you the best and this software in produced for demo and familiarizing you with this branding and the purpose is not to attract the users attention or sell the program in the Google Play market and development .</string>
+    <string name="email">Rarestar.dev@gmail.com</string>
+    <string name="version_app">version 1.0</string>
+    <string name="order">Order The Program :</string>
+
+    <string name="about_resume">
+          . Material Design UI  \n
+        . Software Development \n
+        . The Price Is Right  \n
+        . Free Debugging  \n
+        . Stylish User Interface  \n
+        . Database Creation (SQL - FIREBASE - HOST) \n
+        . Management Panel App  \n
+        . Up To Date Code And App Forever
+    </string>
+    <string name="edit">Edit</string>
+</resources>

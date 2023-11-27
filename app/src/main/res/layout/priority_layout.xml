@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/note_bg"
+    android:layout_marginBottom="5dp"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/textView_subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/newNote"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:textSize="18sp"
+        android:padding="4dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        >
+        <TextView
+            android:id="@+id/textView_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/newNote"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:textSize="14sp"
+            android:padding="4dp"
+            android:textColor="@color/black"
+            />
+        <ImageView
+            android:id="@+id/flag"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/ic_flag"
+            android:layout_marginEnd="10dp"
+            android:layout_alignParentEnd="true"
+            tools:ignore="ContentDescription" />
+    </RelativeLayout>
+
+</LinearLayout>
