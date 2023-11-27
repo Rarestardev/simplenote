@@ -15,7 +15,7 @@
 (JAVA - SQLite)
 
 
-Telegram: Rarestar_dev
+Telegram: Rarestar_dev \n
 Instagram : rarestar.dev
 LinkedIn: Soheyl Darzi
 Gmail: Rarestar.dev@gmail.com
